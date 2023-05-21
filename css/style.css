@@ -148,7 +148,9 @@ body {
     display: flex;
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
-    justify-content: space-between
+    justify-content: space-between;
+    position: relative;
+    overflow-x: hidden;
 }
 
 aside {
